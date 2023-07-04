@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring french full stack web developer</h3>
 🎓 I'm currently studying at ELAN formation in Strasbourg
 <br><br>
-📫 mail: **taplincorentin@gmail.com**
+📫 mail: taplincorentin@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
