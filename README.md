@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm corentin</h1>
-<h3 align="center">Aspiring french full stack web developer</h3>
+<h3 align="center">Aspiring full stack web developer</h3>
 🎓 I'm currently studying at ELAN formation in Strasbourg
 <br><br>
 📫 mail: taplincorentin@gmail.com
