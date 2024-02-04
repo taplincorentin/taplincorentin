@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm corentin</h1>
 <h3 align="center">Junior full stack web developer</h3>
-🐘 Good knowledge of PHP | Symfony 
+🐘 Good knowledge of PHP | Symfony <br>
 💻 Working on my JavaScript skills
 
 <br><br>
